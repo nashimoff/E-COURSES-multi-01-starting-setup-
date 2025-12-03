@@ -1,18 +1,12 @@
-# macOS metadata
+# macOS
 .DS_Store
 
-# VSCode metadata
+# VSCode
 .vscode/
 
-# Node modules (if you have Node)
+# Node projects (if applicable)
 node_modules/
 
 # Logs
 *.log
-
-# JetBrains / IntelliJ metadata
-.idea/
-
-# Any folder named metadata
-metadata/
 
